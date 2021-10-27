@@ -1,6 +1,6 @@
 # Site settings
-title: Another Blog
-url: "http://laobubu.github.io"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
+title: Donald K
+url: "https://donald-yombi.github.io/"    # the protocol and hostname of your site, eg. `http://laobubu.github.io`
 baseurl: "" # the prefix of your site uri, eg. `"/jekyll-theme-EasyBook"` or empty string `""`
 #timezone: Asia/Chongqing
 description: >
@@ -10,13 +10,13 @@ description: >
 email: donald.yombi@aims.ac.rw
 author: Donald KOUGANG YOMBI
 avatar: "https://github.com/Donald-Yombi/Donald-Yombi.github.io/blob/gh-pages/photos/photo.jpg?raw=true"
-profile: One sentence introducing yourself.
+profile: Hello, i am Donald,welcome to my website.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
   Email: "mailto:donald.yombi@aims.ac.rw"
   GitHub: "https://github.com/Donald-Yombi.github.io"
-  # You can add more profile links above, or edit _includes/sidebar.html 
+  Linkedin: "https://www.linkedin.com/in/donald-kougang-yombi-a4a287224"
 
 # Comment Service (Disqus or 多说)
 #  choose one and un-comment the line to active it
@@ -28,8 +28,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Category: /category/
+   # Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
