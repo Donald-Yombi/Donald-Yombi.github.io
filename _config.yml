@@ -7,7 +7,7 @@ description: >
   One or more sentences introducing this blog.
 
 # Your information
-email: your_email@example.com
+email: donald.yombi@aims.ac.rw
 author: Donald KOUGANG YOMBI
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
@@ -15,7 +15,7 @@ profile: One sentence introducing yourself.
 #github_username:  github_username
 profile_links:
   Email: "mailto:donald.yombi@aims.ac.rw"
-  GitHub: "https://github.com/Donald-Yombi"
+  GitHub: "https://github.com/Donald-Yombi.github.io"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
