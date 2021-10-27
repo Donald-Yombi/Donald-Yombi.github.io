@@ -8,14 +8,14 @@ description: >
 
 # Your information
 email: your_email@example.com
-author: your_name
+author: Donald KOUGANG YOMBI
 avatar: "//www.gravatar.com/avatar/your_email_md5?d=mm&s=135"
 profile: One sentence introducing yourself.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
-  Email: "mailto:your_email@example.com"
-  GitHub: "https://github.com/laobubu/jekyll-theme-EasyBook"
+  Email: "mailto:donald.yombi@aims.ac.rw"
+  GitHub: "https://github.com/Donald-Yombi"
   # You can add more profile links above, or edit _includes/sidebar.html 
 
 # Comment Service (Disqus or 多说)
